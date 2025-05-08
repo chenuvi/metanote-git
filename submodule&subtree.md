@@ -1,3 +1,11 @@
+---
+date: 2025-04
+url:
+tags:
+title: Git submodule 和 subtree 的区别
+en-title:
+---
+
 # Git submodule 和 subtree 的区别
 
 在本文中，我们将介绍 [Git](https://deepinout.com/git/git-top-tutorials/1696390559_j_git.html "Git 教程") 中的两个重要概念：子模块（submodule）和子树（subtree）。这两种方式都是将一个 [Git](https://deepinout.com/git/git-top-tutorials/1696390559_j_git.html "Git 教程") 仓库嵌套到另一个仓库中的方法，但它们之间有一些关键的区别。在接下来的内容中，我们将详细探讨 submodule 和 subtree 的不同之处，并提供一些示例来帮助理解。

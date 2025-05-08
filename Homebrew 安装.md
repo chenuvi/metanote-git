@@ -1,3 +1,11 @@
+---
+date: 2023-05-14 12:15:49
+url:
+tags:
+title: Homebrew 安装
+en-title:
+---
+
 # Homebrew国内如何自动安装（国内地址）（Mac & Linux）
 
 ## 自动脚本(全部国内地址)（复制下面一句脚本到终端中粘贴回车)

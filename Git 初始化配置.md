@@ -1,3 +1,10 @@
+---
+date: 2023-05-14 12:15:49
+url:
+tags:
+title: Git 初始化配置
+en-title:
+---
 
 你可以通过以下命令查看所有的配置以及它们所在的文件：
 
@@ -16,7 +23,7 @@ $ git config --global user.email johndoe@example.com
 
 ### 区分大小写
 
-默认情况下git是忽略区分大小写的，多人合作的情况下不规范很容易造成问题，以下是Git大小写敏感的配置方法
+默认情况下 git 是忽略区分大小写的，多人合作的情况下不规范很容易造成问题，以下是 Git 大小写敏感的配置方法
 
 ##### 开启
 
@@ -33,6 +40,5 @@ git config --global core.ignorecase false
 ```javascript
 git config --list
 ```
-
 
 > [Git - 初次运行 Git 前的配置 (git-scm.com)](https://git-scm.com/book/zh/v2/%E8%B5%B7%E6%AD%A5-%E5%88%9D%E6%AC%A1%E8%BF%90%E8%A1%8C-Git-%E5%89%8D%E7%9A%84%E9%85%8D%E7%BD%AE)
